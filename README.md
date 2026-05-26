@@ -104,17 +104,18 @@ Focused on improving problem-solving, programming, and development skills throug
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmayy10&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chinmayy10&show_icons=true&theme=tokyonight" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmayy10&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chinmayy10&layout=compact&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=chinmayy10&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=chinmayy10&theme=tokyonight" />
 
 </div>
 
