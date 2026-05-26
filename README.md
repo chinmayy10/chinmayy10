@@ -104,7 +104,6 @@ Focused on improving problem-solving, programming, and development skills throug
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmayy10&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
